@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfDHHohbm40mJ8k2xxYeLaQAAAAACAAAAAAAQZgAAAAEAACAAAACs3dMUhy41lIdruaIjaBinDuxlDvGtg7Mrl7MysUvITwAAAAAOgAAAAAIAACAAAACOplqxdwda8XCqemqvSurKsgr+OBZZXcyxM5jG/wjWnoAAAACQoI9geZCWunZ/Fyn1c1P45mE86X5nby8d2d8tPhQo5JiA7BeDlkoUXqqqnNr2w2lNm9WKmczfC/YSr/EgINv4Cbu0donrPgumHK7RhdDKhruH2J/ztUrNvvd+8i8DO910aqYwoE2Ea+6nZB1iOSMIRJJLwuwJXGB0+Sa+VrxzmEAAAAAa0hq5RqKDwAxrU5iZNZsq5d2qh2uu2lDYKPjym5Af9m8N9RO+mgXow7otkSz7FnKrEBblvpe2bqqtDbu0/0gy</EncryptedPassword>
+    <History>True|2022-01-06T07:41:57.0888080Z;True|2022-01-03T12:48:27.0911149+05:30;True|2021-12-24T12:46:09.8174440+05:30;True|2021-12-24T12:29:10.0294692+05:30;False|2021-12-24T12:28:23.8002134+05:30;True|2021-12-24T12:24:40.0093575+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Repository.DBContext.TpContext">
+      <Value>Data Source=tcp:talkativeparentapidbserver.database.windows.net,1433%3bInitial Catalog=TalkativeParentAPI_db%3bUser Id=tpsrilankaadmin%40talkativeparentapidbserver%3bPassword=talkativesri123!%40#</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,61 @@
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.deps.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.AssemblyReference.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfoInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfo.cs
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\refint\CommonUtility.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\ref\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\refint\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\ref\CommonUtility.dll
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.deps.json
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.dll
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.pdb
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.AssemblyReference.cache
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfoInputs.cache
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfo.cs
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.dll
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\refint\CommonUtility.dll
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.pdb
+E:\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\ref\CommonUtility.dll
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.deps.json
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.dll
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.pdb
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.AssemblyReference.cache
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfoInputs.cache
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfo.cs
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.dll
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\refint\CommonUtility.dll
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.pdb
+E:\Latest Back End DEV 2\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\ref\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\bin\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\refint\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\ref\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Release\net5.0\CommonUtility.sourcelink.json

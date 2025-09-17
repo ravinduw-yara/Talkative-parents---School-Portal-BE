@@ -1,0 +1,473 @@
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.Development.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.exe
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.deps.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.dev.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\ref\TalkativeParentAPI_APP.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Azure.KeyVault.Core.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Owin.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Rackspace.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGridMail.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.SmtpApi.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\StarkbankEcdsa.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.CodeDom.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.Common.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.AssemblyReference.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfoInputs.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfo.cs
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CoreCompileInputs.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cs
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.Manifest.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.xml
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\scopedcss\bundle\TalkativeParentAPI_APP.styles.css
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.RazorTargetAssemblyInfo.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CopyComplete
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\ref\TalkativeParentAPI_APP.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.genruntimeconfig.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.Development.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.StaticWebAssets.xml
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.exe
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.deps.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.dev.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.Http.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Marvin.JsonPatch.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Azure.KeyVault.Core.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\openstacknet.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Owin.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Rackspace.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGridMail.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.SmtpApi.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\StarkbankEcdsa.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.CodeDom.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.Common.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.AssemblyReference.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfoInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfo.cs
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cs
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\scopedcss\bundle\TalkativeParentAPI_APP.styles.css
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.Manifest.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.RazorTargetAssemblyInfo.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CopyComplete
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\refint\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.genruntimeconfig.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\ref\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.Development.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.StaticWebAssets.xml
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.exe
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.dev.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.Http.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Marvin.JsonPatch.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Azure.KeyVault.Core.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.Serialization.JsonNet.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\openstacknet.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Owin.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Rackspace.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGridMail.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.SmtpApi.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\StarkbankEcdsa.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.CodeDom.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\scopedcss\bundle\TalkativeParentAPI_APP.styles.css
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.Manifest.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.RazorTargetAssemblyInfo.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CopyComplete
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\refint\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.genruntimeconfig.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\ref\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.MvcApplicationPartsAssemblyInfo.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.sourcelink.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.Development.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\appsettings.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.StaticWebAssets.xml
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.exe
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.runtimeconfig.dev.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Azure.Core.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Azure.Storage.Blobs.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Azure.Storage.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\EntityFramework.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.Http.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Flurl.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Google.Apis.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Google.Apis.Auth.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Google.Apis.Core.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Google.Apis.Drive.v3.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Marvin.JsonPatch.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.ApplicationInsights.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.DependencyCollector.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.PerfCounterCollector.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Mvc.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Razor.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Helpers.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.WebPages.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Azure.KeyVault.Core.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.Extensions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Threading.Tasks.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Nancy.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\openstacknet.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Owin.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Rackspace.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGridMail.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\SendGrid.SmtpApi.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\StarkbankEcdsa.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.CodeDom.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Memory.Data.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\System.Web.Http.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\bin\Debug\net5.0\Services.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.RazorTargetAssemblyInfo.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\scopedcss\bundle\TalkativeParentAPI_APP.styles.css
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.Manifest.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\TalkativeParentAPI_APP.StaticWebAssets.Pack.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\msbuild.TalkativeParentAPI_APP.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\msbuild.build.TalkativeParentAPI_APP.props
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TalkativeParentAPI_APP.props
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TalkativeParentAPI_APP.props
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\Talkativ.454C881E.Up2Date
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\refint\TalkativeParentAPI_APP.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\TalkativeParentAPI_APP.genruntimeconfig.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\TalkativeParentAPI_APP\obj\Debug\net5.0\ref\TalkativeParentAPI_APP.dll

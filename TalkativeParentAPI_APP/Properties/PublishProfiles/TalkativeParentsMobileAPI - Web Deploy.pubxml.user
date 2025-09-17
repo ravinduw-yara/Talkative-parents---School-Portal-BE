@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfDHHohbm40mJ8k2xxYeLaQAAAAACAAAAAAAQZgAAAAEAACAAAAAxn4Lt6rVtQA0zgdmDuqNOXFqisSJKj0MTDCFZq1lL8QAAAAAOgAAAAAIAACAAAAAkJpizo8/z8ga+MhJevKkpT/r/lkboFWDAd+z3xopFp4AAAACWCF6yPPBlJaRE0ekbP6UOa1U5Or5w43Iar9vGSL9kNXfQ1P6CEkXyxTx4nfMF03eDv9gAcmiA3qu+Hn7IGxLOv7a/2ab/8y9SpxKzYJ0CGeKcR92IO4LTnxCle1ott8dqU3rwojD6Jk9P7NmV7CcxuTvhHFlyFCMcoaJqBTsVTkAAAAB+TgEbK/y5OhfGL298vJMVXthK/QK/LQVyWFjiHXjd5/tJKQVujzy3gTwQvncqqZMn26O4mtWvSw5EaHaesN3R</EncryptedPassword>
+    <History>True|2022-01-27T13:09:16.4696331Z;True|2022-01-25T18:41:42.4096955+05:30;True|2022-01-20T18:28:19.7224413+05:30;True|2022-01-20T17:15:33.4872543+05:30;True|2022-01-19T18:42:00.2259587+05:30;True|2022-01-19T18:41:28.0264199+05:30;True|2022-01-19T18:40:21.2252651+05:30;True|2022-01-19T16:37:48.7980847+05:30;True|2021-12-24T12:52:57.2092909+05:30;True|2021-12-24T10:56:24.3490579+05:30;True|2021-12-23T17:33:00.3729772+05:30;True|2021-12-23T16:58:39.5830209+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="TpConnectionString">
+      <Value>Server=tcp:talkativeparentapidbserver.database.windows.net,1433%3bInitial Catalog=TalkativeParentAPI_db%3bPersist Security Info=False%3bUser ID=tpsrilankaadmin%3bPassword=talkativesri123!%40#%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

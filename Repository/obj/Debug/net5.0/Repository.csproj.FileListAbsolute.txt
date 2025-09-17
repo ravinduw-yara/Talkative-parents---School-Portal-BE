@@ -1,0 +1,91 @@
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\Repository.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\CommonUtility.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\bin\Debug\net5.0\CommonUtility.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Carvewing\TP\TP_CW_BE\Ranjan branch\16-Nov\tp_cw_backend\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.deps.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\refint\Repository.dll
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+F:\Migrated Portal\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\ref\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\refint\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\ref\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\refint\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade-20230317T033147Z-001\Testing\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\ref\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.deps.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\bin\Debug\net5.0\CommonUtility.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.sourcelink.json
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.csproj.Up2Date
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\refint\Repository.dll
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.pdb
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\ref\Repository.dll

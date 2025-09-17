@@ -1,0 +1,42 @@
+{
+  "profiles": {
+    "TalkativeParentAPI": {
+      "commandName": "Project"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "ConnectionStrings": {
+    "TpConnectionString": "Data Source=talkativeparentapidbserver.database.windows.net;Initial Catalog=TalkativeParentHistoricalAPI_db;User ID=tpsrilankaadmin;Password=NjA)5A3&/9A£V89"
+  },
+  "AllowedHosts": "*",
+  "Jwt": {
+    "Key": "TalkativeParentJwtSecretKey",
+    "Issuer": "TalkativeParent.com"
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:53756/",
+      "sslPort": 44384
+    }
+  },
+  "AzureBlobStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=tpstudentsprofilepics;AccountKey=h++qYWcaRmgmF0Fbdar4uJnW7SWq8G7ztAQ/Cud9bDZp+LphMBBcBwHT0S6gxu4esab+i6bZ+Gk3+AStF9ezlg==;EndpointSuffix=core.windows.net",
+    "ContainerName": "studentprofilepics",
+    "BlobName": "credentials.json"
+  }
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TakativeParentAPI-Portal" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Migrated\ Portal\\To\ Server\\Migrated_DRC_Upgrade\ \(4\)\ \(1\)\\Migrated_DRC_Upgrade\ \(4\)\\Migrated_DRC_Upgrade\\TalkativeParentAPI\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
