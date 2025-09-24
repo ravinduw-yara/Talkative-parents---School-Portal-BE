@@ -59,3 +59,16 @@ F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Debug\net5.0\refint\CommonUtility.dll
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Debug\net5.0\CommonUtility.pdb
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\CommonUtility\obj\Debug\net5.0\ref\CommonUtility.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\bin\Debug\net5.0\CommonUtility.deps.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\bin\Debug\net5.0\CommonUtility.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\bin\Debug\net5.0\CommonUtility.pdb
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.csproj.AssemblyReference.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.AssemblyInfoInputs.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.AssemblyInfo.cs
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.csproj.CoreCompileInputs.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.sourcelink.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\refint\CommonUtility.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\CommonUtility.pdb
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\CommonUtility\obj\Debug\net5.0\ref\CommonUtility.dll

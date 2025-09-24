@@ -89,3 +89,22 @@ F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.pdb
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
 F:\Migrated Portal\To Server\Migrated_DRC_Upgrade (4) (1)\Migrated_DRC_Upgrade (4)\Migrated_DRC_Upgrade\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\CommonUtility.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\bin\Debug\net5.0\CommonUtility.pdb
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.sourcelink.json
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.csproj.Up2Date
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\refint\Repository.dll
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+C:\Users\ravin\Source\Repos\Talkative-parents---School-Portal-BE\Repository\obj\Debug\net5.0\ref\Repository.dll

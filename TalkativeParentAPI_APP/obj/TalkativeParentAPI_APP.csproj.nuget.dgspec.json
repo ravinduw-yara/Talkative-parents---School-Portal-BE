@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj": {}
+    "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
+    "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj",
+        "projectUniqueName": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj",
         "projectName": "CommonUtility",
-        "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj",
-        "packagesPath": "C:\\Users\\1ravi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\obj\\",
+        "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj",
+        "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net5.0": {
@@ -95,21 +99,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
+    "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\1ravi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,15 +125,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
               }
             }
           }
@@ -139,7 +146,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net5.0": {
@@ -184,21 +192,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj": {
+    "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\1ravi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\obj\\",
+        "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -206,18 +218,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
               },
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj"
               }
             }
           }
@@ -231,7 +242,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net5.0": {
@@ -302,21 +314,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj": {
+    "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj",
+        "projectUniqueName": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj",
         "projectName": "TalkativeParentAPI_APP",
-        "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj",
-        "packagesPath": "C:\\Users\\1ravi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\obj\\",
+        "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\TalkativeParentAPI_APP.csproj",
+        "packagesPath": "C:\\Users\\ravin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\TalkativeParentAPI_APP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1ravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ravin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -324,21 +340,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\CommonUtility\\CommonUtility.csproj"
               },
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\1ravi\\source\\repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj"
+              "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\ravin\\Source\\Repos\\Talkative-parents---School-Portal-BE\\Services\\Services.csproj"
               }
             }
           }
@@ -352,7 +367,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net5.0": {
@@ -454,7 +470,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }
